@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Dll1.cpp
+C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Dll1\Dll1.cpp(36,1): warning C4297: changeSubString: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Dll1\Dll1.cpp(36,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Dll1\Dll1.cpp(39,1): warning C4297: changeSubString: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Dll1\Dll1.cpp(39,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Debug\Dll1.lib и объект C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\mikha\PycharmProjects\PrTech_Labs\1_lab\Dll1\Debug\Dll1.dll
